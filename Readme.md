@@ -40,49 +40,18 @@ philosophy: "Build → Break → Secure → Repeat"
 
 </p>
 
----
-
-# 🧪 Featured Work
-
-## 🔐 CipherSentinel
-
-> AI-based secret detection engine
-
-* Detects exposed API keys
-* Improves codebase security
-* Built for developers & teams
-
----
-
-## 🏥 Hospital Management System
-
-> Scalable healthcare platform
-
-* Role-based dashboards
-* Appointment + billing system
-* Built using modern web stack
-
----
-
-## ☁️ CloudSight Analyzer
-
-> Cloud intelligence system
-
-* Log monitoring
-* Threat detection
-* Security analytics
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LoganthP&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=LoganthP&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loganthp19-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=loganthp19-arch&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganthP&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganthp19-arch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,31 +59,11 @@ philosophy: "Build → Break → Secure → Repeat"
 # 📡 Live Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoganthP&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loganthp19-arch&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🧩 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LoganthP/LoganthP/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
-  <a href="YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-0a0f1c?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
-  </a>
-</p>
-
----
 
 # ⚡ System Mindset
 
