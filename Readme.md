@@ -49,6 +49,17 @@ philosophy: "Build → Break → Secure → Repeat"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=loganthp19-arch&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/loganthp19-arch/profilesnake/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/loganthp19-arch/profilesnake/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/loganthp19-arch/profilesnake/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 
